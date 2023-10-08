@@ -1,0 +1,32 @@
+* text=auto
+* text elo=lf
+
+*.bin binary
+*.raw binary
+*.bmp binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.hdr binary
+*.webp binary
+*.webm binary
+*.mp4 binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.tar binary
+*.gz binary
+*.zip binary
+*.7z binary
+*.stl binary
+*.ply binary
+*.glb binary
+*.blend binary
+*.wasm binary
+*.pyc binary
+*.pth binary
+*.pdf binary
+*.ai binary
+*.psd binary
