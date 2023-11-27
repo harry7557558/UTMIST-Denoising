@@ -1,6 +1,6 @@
 #pragma once
 
-#include "glm/glm.hpp"
+#include "glm/glm/glm.hpp"
 
 #include "spectrum.h"
 
@@ -10,4 +10,3 @@ struct Ray {
     float max_t;
     Spectrum colorContribution;
 };
-
